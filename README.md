@@ -1,8 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I’m Arushi Bashambu
 
-I’m a passionate **developer and creator** specializing in building scalable applications, crafting intelligent solutions, and exploring innovative technologies.
-
+"🚀 A tech enthusiast driven by curiosity, crafting intelligent solutions with code, and transforming ideas into impactful innovations in the digital world."
 ---
 
 ## 🔧 Technologies & Tools
