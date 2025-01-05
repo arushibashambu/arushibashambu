@@ -45,6 +45,12 @@
 - [LeetCode](https://leetcode.com/u/arushibashambu)  
 - ✉️ arushibashambu@gmail.com
 ---
+## 📚 What I'm Learning
+- 🌱 **YOLO V8** for advanced object detection and recognition.  
+- 🤖 Fine-tuning transformer-based models with **Hugging Face**.  
+- 🌐 Enhancing backend capabilities with **Node.js** and **Express**.  
+- 📈 Improving system design and database optimization.  
+---
 
 ## 🚀 Current Projects
 - **Attendance System Using Face Recognition** | [Repository](https://github.com/arushibashambu/Attendance-System-Using-Face-Recognition)
