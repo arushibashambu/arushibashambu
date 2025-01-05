@@ -13,16 +13,17 @@ I’m a passionate **developer and creator** specializing in building scalable a
 ---
 
 ## 📈 GitHub Stats
-![Arushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arushibashambu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/arushibashambu)
-- 🌟 [Portfolio](https://your-portfolio-url.com)
-- ✉️ arushi.bashambu@example.com
 
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/arushibashambu)  
+- [Kaggle](https://www.kaggle.com/arushibashambu)  
+- [GitHub](https://github.com/arushibashambu)  
+- [LeetCode](https://leetcode.com/u/arushibashambu)  
+- ✉️ arushibashambu@gmail.com
 ---
 
 ## 🚀 Current Projects
