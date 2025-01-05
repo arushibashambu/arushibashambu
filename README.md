@@ -33,7 +33,37 @@
 ---
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=merko)
+# 🎨 Theme Comparison for GitHub Readme Stats
+
+### **1. Dark Theme**
+![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=dark)
+
+### **2. Radical Theme**
+![Top Languages - Radical](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=radical)
+
+### **3. Merko Theme**
+![Top Languages - Merko](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=merko)
+
+### **4. Tokyo Night Theme**
+![Top Languages - Tokyo Night](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=tokyonight)
+
+### **5. One Dark Theme**
+![Top Languages - One Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=onedark)
+
+### **6. Gruvbox Theme**
+![Top Languages - Gruvbox](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=gruvbox)
+
+### **7. Cobalt Theme**
+![Top Languages - Cobalt](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=cobalt)
+
+### **8. Synthwave Theme**
+![Top Languages - Synthwave](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=synthwave)
+
+### **9. High Contrast Theme**
+![Top Languages - High Contrast](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=highcontrast)
+
+### **10. Dracula Theme**
+![Top Languages - Dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=dracula)
 
 
 
