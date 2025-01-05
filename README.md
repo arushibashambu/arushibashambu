@@ -35,6 +35,8 @@
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=dark&title_color=FF5733&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushibashambu&layout=compact&theme=radical)
+
 
 
 ---
