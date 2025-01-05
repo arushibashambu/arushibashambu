@@ -1,7 +1,13 @@
-## Hi there 👋
+
 # 👋 Hi, I’m Arushi Bashambu
 
 👩‍💻 A code wizard and tech enthusiast, constantly pushing commits of creativity, debugging challenges into solutions, and scripting a future full of innovative possibilities!
+---
+## 🌟 About Me
+- 🎓 **Final-year Computer Engineering student** at Thapar Institute of Engineering and Technology.  
+- 🌐 Passionate about **web development**, **machine learning**, and **AI-powered solutions**.  
+- ✨ Always curious to learn new technologies and explore innovative ways to solve problems.  
+- 🚀 Actively contributing to open-source projects and building impactful applications.  
 ---
 
 ## 🔧 Technologies & Tools
